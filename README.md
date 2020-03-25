@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 page_type: sample
 languages:
@@ -212,3 +213,6 @@ In this tutorial, you learned how to:
 - In a web page, display device data in a chart
 
 > Note: remember to delete any Azure resources created during this sample to avoid unnecessary charges.
+=======
+# Raspberrypirepo
+>>>>>>> 38bb7d73afd0a782daf8030dc4213d45796c1db6
